@@ -1,0 +1,16 @@
+D:\0omer_ilhan\codeTestNewYear\test04\test04\bin\Debug\net5.0\test04.exe
+D:\0omer_ilhan\codeTestNewYear\test04\test04\bin\Debug\net5.0\test04.deps.json
+D:\0omer_ilhan\codeTestNewYear\test04\test04\bin\Debug\net5.0\test04.runtimeconfig.json
+D:\0omer_ilhan\codeTestNewYear\test04\test04\bin\Debug\net5.0\test04.runtimeconfig.dev.json
+D:\0omer_ilhan\codeTestNewYear\test04\test04\bin\Debug\net5.0\test04.dll
+D:\0omer_ilhan\codeTestNewYear\test04\test04\bin\Debug\net5.0\ref\test04.dll
+D:\0omer_ilhan\codeTestNewYear\test04\test04\bin\Debug\net5.0\test04.pdb
+D:\0omer_ilhan\codeTestNewYear\test04\test04\obj\Debug\net5.0\test04.csproj.AssemblyReference.cache
+D:\0omer_ilhan\codeTestNewYear\test04\test04\obj\Debug\net5.0\test04.GeneratedMSBuildEditorConfig.editorconfig
+D:\0omer_ilhan\codeTestNewYear\test04\test04\obj\Debug\net5.0\test04.AssemblyInfoInputs.cache
+D:\0omer_ilhan\codeTestNewYear\test04\test04\obj\Debug\net5.0\test04.AssemblyInfo.cs
+D:\0omer_ilhan\codeTestNewYear\test04\test04\obj\Debug\net5.0\test04.csproj.CoreCompileInputs.cache
+D:\0omer_ilhan\codeTestNewYear\test04\test04\obj\Debug\net5.0\test04.dll
+D:\0omer_ilhan\codeTestNewYear\test04\test04\obj\Debug\net5.0\ref\test04.dll
+D:\0omer_ilhan\codeTestNewYear\test04\test04\obj\Debug\net5.0\test04.pdb
+D:\0omer_ilhan\codeTestNewYear\test04\test04\obj\Debug\net5.0\test04.genruntimeconfig.cache
